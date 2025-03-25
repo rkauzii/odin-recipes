@@ -1,0 +1,1 @@
+A simple HTML website showcasing delicious recipes to try out.
