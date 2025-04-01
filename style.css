@@ -1,0 +1,38 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.body{
+    background-color: grey;
+}
+
+.content{
+    border:2px solid rebeccapurple;
+    background-color: bisque;
+}
+.content li{
+    font-size:25px;
+    font-family: 'Courier New', Courier, monospace;
+    padding:8px;
+}
+
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 2px solid black;
+    padding:10px;
+    display: inline-block;
+    margin:8px;
+}
+
+.nav-bar{
+    border: 3px solid darkblue;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.nav-bar a{
+    margin: 150px;
+    font-size:24px;
+    text-decoration: none;
+}
+
